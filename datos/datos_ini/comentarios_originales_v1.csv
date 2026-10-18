@@ -1,0 +1,37 @@
+﻿texto,etiqueta_real
+El copiloto me ayudó a encontrar la política vigente en segundos.,POS
+Me encanta que indique la fuente de cada respuesta.,POS
+La herramienta agilizó la preparación de mi reporte.,POS
+Estoy satisfecho con la facilidad de uso del asistente.,POS
+La búsqueda de procedimientos fue clara y rápida.,POS
+"Excelente, ahora localizo manuales sin pedir ayuda.",POS
+Me resultó muy útil para resumir documentos largos.,POS
+La nueva solución mejoró mi jornada de trabajo.,POS
+Qué buena experiencia consultando las guías internas.,POS
+Las respuestas fueron oportunas y bien sustentadas.,POS
+Estoy contenta con la capacitación para usar el copiloto.,POS
+La herramienta funciona muy bien para dudas frecuentes.,POS
+El asistente inventó una política que no existe.,NEG
+Perdí tiempo porque las respuestas estaban equivocadas.,NEG
+La búsqueda falla constantemente y es frustrante.,NEG
+No estoy satisfecho con la precisión del sistema.,NEG
+La herramienta mostró información desactualizada.,NEG
+El copiloto tarda demasiado y retrasa mi trabajo.,NEG
+Me molesta que responda sin citar documentos.,NEG
+Es una mala experiencia; tuve que repetir las consultas.,NEG
+El resumen fue confuso y contenía errores graves.,NEG
+El acceso se bloqueó varias veces sin explicación.,NEG
+La capacitación fue insuficiente y poco clara.,NEG
+No confío en los resultados que genera el asistente.,NEG
+Hoy revisé las instrucciones del nuevo copiloto.,NEU
+La sesión informativa está programada para el lunes.,NEU
+El manual se encuentra disponible en la intranet.,NEU
+Probé una consulta sobre vacaciones y registré el resultado.,NEU
+El sistema permite escribir preguntas en español.,NEU
+Hay tres documentos relacionados con esta solicitud.,NEU
+El responsable compartió la versión actual del procedimiento.,NEU
+Se habilitó el acceso al entorno de pruebas.,NEU
+La herramienta incluye un botón para copiar respuestas.,NEU
+La prueba duró aproximadamente veinte minutos.,NEU
+El usuario debe iniciar sesión antes de realizar consultas.,NEU
+La reunión de seguimiento será mañana por la tarde.,NEU
