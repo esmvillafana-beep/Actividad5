@@ -1,8 +1,13 @@
-# CHANGELOG — Actividad 5
+## Versión 0.2 — Integración de MLflow
 
-## v0.1.0 — Preparación del repositorio
-- Se crea la estructura mínima solicitada.
-- Se incorpora como fuente el dataset sintético de 36 comentarios de la Actividad 4.
-- Se implementa preparación reproducible en `fuentes/datos_prep.py`.
-- Se incluye notebook inicial y marcador explícito para entrenamiento/MLflow posterior.
-- **Pendiente:** validación de datos ampliados, entrenamiento, Grid Search, MLflow y análisis técnico final.
+**Cambios incorporados:**
+
+- Se configuró MLflow con seguimiento local mediante SQLite.
+- Se ejecutó un modelo piloto de regresión logística con TF-IDF.
+- Se registraron parámetros y métricas de clasificación.
+- Se generaron evidencias de predicciones, reporte de clasificación y matriz de confusión.
+- Se incorporó el cuaderno `entrena_mlflow.ipynb` en la carpeta `fuentes/`.
+- Se añadieron las evidencias experimentales en `resultados/piloto_mlflow/`.
+- Se actualizó la documentación para reflejar el estado actual del proyecto.
+
+**Pendiente:** entrenamiento comparativo de regresión logística y SVM lineal, optimización con GridSearchCV y validación cruzada.
