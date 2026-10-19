@@ -1,0 +1,18 @@
+{
+  "run_id": "6c9a048c84c44ccd96f15fea2d037316",
+  "experimento": "Actividad5_Banco_Horizonte_Sentimientos",
+  "algoritmo": "Regresion_Logistica",
+  "dataset": "comentarios_limpios_v1.csv",
+  "dataset_sha256": "466a051671563a7e81a6c3751140fbff86136c484352a7d8e6c4618fcb8bbeb8",
+  "registros_entrenamiento": 27,
+  "registros_prueba": 9,
+  "python": "3.13.16",
+  "mlflow": "3.17.1",
+  "scikit_learn": "1.6.1",
+  "metricas": {
+    "accuracy": 0.2222222222222222,
+    "precision_macro": 0.15,
+    "recall_macro": 0.2222222222222222,
+    "f1_macro": 0.17857142857142858
+  }
+}

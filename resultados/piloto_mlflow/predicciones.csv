@@ -1,0 +1,10 @@
+﻿texto,etiqueta_real,prediccion
+"Excelente, ahora localizo manuales sin pedir ayuda.",POS,NEG
+La herramienta funciona muy bien para dudas frecuentes.,POS,POS
+La reunión de seguimiento será mañana por la tarde.,NEU,POS
+Las respuestas fueron oportunas y bien sustentadas.,POS,NEG
+No estoy satisfecho con la precisión del sistema.,NEG,POS
+El manual se encuentra disponible en la intranet.,NEU,NEG
+Es una mala experiencia; tuve que repetir las consultas.,NEG,NEG
+Se habilitó el acceso al entorno de pruebas.,NEU,NEG
+Me molesta que responda sin citar documentos.,NEG,POS

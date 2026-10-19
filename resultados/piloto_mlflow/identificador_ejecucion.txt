@@ -1,0 +1,4 @@
+Experimento: Actividad5_Banco_Horizonte_Sentimientos
+Experiment ID: 1
+Run ID: 6c9a048c84c44ccd96f15fea2d037316
+Estado: FINISHED

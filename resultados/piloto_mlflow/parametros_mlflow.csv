@@ -1,0 +1,12 @@
+﻿Parametro,Valor
+algoritmo,Regresion_Logistica
+representacion,TF-IDF
+dataset_version,v1
+random_state,42
+test_size,0.25
+max_features,1000
+ngram_range,1-2
+modelo_C,1.0
+modelo_max_iter,1000
+registros_entrenamiento,27
+registros_prueba,9
